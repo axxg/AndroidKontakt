@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Validierungsfehler</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="content_Description">Beschreibung</string>
+    <string name="kontakt_name">Dein Name (Rita Rakete)</string>
+    <string name="kontakt_email">Deine e-Mailadresse (rita@rakete.de)</string>
+    <string name="kontakt_message">Deine Nachricht (Die App ist cool, aber...)</string>
+    <string name="kontakt_senden">senden</string>
+    <string name="kontakt_err_name">Dein Name muss mindestens 3 Buchstaben haben!</string>
+    <string name="kontakt_err_mail">Deine e-Mailadresse fehlt oder ist nicht gültig!</string>
+    <string name="kontakt_err_message">Deine Nachricht fehlt!</string>
+    <string name="kontakt_err_send">Die Nachricht konnte nicht gesendet werden:-/</string>
+    <string name="kontakt_info_send">Die Nachricht wurde gesendet!</string>
+
+</resources>
